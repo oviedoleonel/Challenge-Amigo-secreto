@@ -1,6 +1,7 @@
+🎁 Sorteo de Amigo Secreto
 Este es un proyecto simple para realizar sorteos de "Amigo Secreto". Permite a los usuarios agregar una lista de nombres y luego seleccionar un ganador de forma aleatoria con solo un clic. El objetivo principal es fortalecer la lógica de programación utilizando JavaScript, HTML y CSS.
 
-Estructura del Proyecto
+📂 Estructura del Proyecto
 El proyecto consta de los siguientes archivos principales:
 
 index.html: Define la estructura y el contenido de la página web.
@@ -11,7 +12,7 @@ style.css: Proporciona los estilos visuales para la interfaz de usuario.
 
 assets/: Carpeta que contiene las imágenes utilizadas en el proyecto.
 
-index.html
+💻 index.html
 El archivo HTML es la base de la aplicación.
 
 Header: Un encabezado con un título principal y una imagen representativa.
@@ -26,7 +27,7 @@ Botón de Sorteo: Un botón (<button>) con el onclick="sortearAmigo()" que inici
 
 Script: La etiqueta <script src="app.js" defer></script> enlaza el archivo de JavaScript y lo carga de manera diferida para garantizar que el HTML se renderice primero.
 
-app.js
+🧠 app.js
 El archivo de JavaScript contiene toda la lógica de la aplicación.
 
 listaDeAmigos: Un arreglo ([]) que almacena todos los nombres ingresados por el usuario.
@@ -61,7 +62,7 @@ Selecciona un nombre del arreglo usando el índice aleatorio.
 
 Muestra el nombre del ganador en la sección de resultado.
 
-Uso
+🚀 Uso
 Abre el archivo index.html en tu navegador web.
 
 Escribe el nombre de cada amigo en el campo de texto.
